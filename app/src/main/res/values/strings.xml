@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarjeta de presentacion</string>
+    <string name="name">Daniel Rubio</string>
+    <string name="title">Title</string>
+    <string name="telefono">+00 (00) 000 000</string>
+    <string name="red_social">"@socialmediahandle"</string>
+    <string name="gmail">email@domail.com</string>
+</resources>
